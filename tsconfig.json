@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "amd",
+    "target": "es5",
+    "noImplicitAny": false,
+    "outFile": "dist/js/common-typescript.js",
+    "sourceMap": false
+  }, 
+  "files": [
+    "src/ts/common-typescript.ts"
+],
+  "exclude": [
+    "node_modules"
+  ]
+}

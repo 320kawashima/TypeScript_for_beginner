@@ -1,0 +1,11 @@
+{
+  "name": "ts_for_bg",
+  "version": "1.0.0",
+  "description": "第15回HTML5ビギナーズ TypeScript入門 資料",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mitsuo Kawashima",
+  "license": "MIT"
+}
